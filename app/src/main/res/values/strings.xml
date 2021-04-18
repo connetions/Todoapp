@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="logout_btn">Logout</string>
+    <string name="add_btn">Add</string>
+
+
+    <!--Add Profile-->
+    <string name="taskView">Zadanie</string>
+    <string name="taskEdit">...</string>
+    <string name="dateView">Wybrana data</string>
+    <string name="dateButton">Data</string>
+    <string name="timeView">Wybrana godzina</string>
+    <string name="timeButton">Godzina</string>
+    <string name="termView">Termin</string>
+    <string name="buttonAddTask">+</string>
+    <string name="editTextCategory">Podaj kategorie</string>
+    <string name="dodajWiele">...</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
+
